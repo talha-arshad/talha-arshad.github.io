@@ -5,7 +5,7 @@
 ### Semiconductor Wafer Defect Classification
 
 [Summary](/pdf/WaferMapDefectClassification_4ws.pdf)
-<img src="images/WMDC_thumbnail.jpg?raw=true"/>
+<img src="images/WMDC_thumbnail.JPG?raw=true"/>
 
 ---
 
