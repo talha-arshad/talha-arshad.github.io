@@ -17,7 +17,7 @@
 
 ---
 
-### [Tenmplated Evaporative Lithography](/pdf/TEL_4ws.pdf)
+### [Templated Evaporative Lithography](/pdf/TEL_4ws.pdf)
 <img src="images/TEL_thumbnail.JPG?raw=true"/>
 
 ---
