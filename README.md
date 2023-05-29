@@ -1,2 +1,1 @@
-### Portfolio website
-[Link](https://talha-arshad.github.io/)
+### Portfolio [Website](https://talha-arshad.github.io/)
